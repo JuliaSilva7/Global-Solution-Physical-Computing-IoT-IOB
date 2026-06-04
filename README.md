@@ -1,6 +1,9 @@
 # SpaceCapsule Vision Monitor
 
 Projeto da Global Solution – Physical Computing / IoT & IoB.
+* Julia Carolina Ferreira Silva RM558896
+* Fernando Carlos Colque Huaranca RM558095
+* Turma: 3ESPH
 
 ## Objetivo
 
