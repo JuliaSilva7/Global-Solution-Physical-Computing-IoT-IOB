@@ -15,7 +15,7 @@ O ESP32 lê a temperatura do sensor DHT22 e publica os dados em MQTT. O Python r
 
 ## Arquitetura
 
-ESP32 + DHT22 no Wokwi → MQTT → Broker HiveMQ público → Python + OpenCV → Node-RED Dashboard
+ESP32 + DHT22 no Wokwi → MQTT → Broker HiveMQ público → Python versão 3.11 + OpenCV → Node-RED Dashboard
 
 ## Regras de Status
 
